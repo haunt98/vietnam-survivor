@@ -1,4 +1,6 @@
-# visurvi-go
+# Vietnam survivor
+
+Why? You know why.
 
 ## Học tình huống mô phỏng lái xe
 
